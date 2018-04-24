@@ -1,0 +1,66 @@
+.img-icon{
+	width: 30px;
+	height: 30px;
+}
+
+.vh-100{
+	min-height: 100vh;
+}
+.vh-75{
+	min-height: 75vh;
+}
+.vh-50{
+	min-height: 50vh;
+}
+.vh-25{
+	min-height: 25vh;
+}
+
+.vw-100{
+	min-height: 100vw;
+}
+.vw-75{
+	min-height: 75vw;
+}
+.vw-50{
+	min-height: 50vw;
+}
+.vw-25{
+	min-height: 25vw;
+}
+
+.card{
+  border: 0;
+	border-radius: 0;
+  box-shadow: 1em 1em 2em rgba(0,0,0,.2);
+}
+
+.card-profile {
+  margin: 10px auto;
+  background-color: $card-bg;
+  border-radius: 0;
+  border: 0;
+  box-shadow: 1em 1em 2em rgba(0,0,0,.2);
+  
+  .card-img-top {
+    border-radius: 0;
+  }
+
+  .card-img-profile {
+    max-width: 100%;
+    border-radius: 50%;
+    margin-top: -95px;
+    margin-bottom: 35px;
+    border: 5px solid $card-bg;
+  }
+
+  .card-title {
+    margin-bottom: 50px;
+
+    small {
+      display: block;
+      font-size: .6em;
+      margin-top: .2em;
+    }
+  }
+}

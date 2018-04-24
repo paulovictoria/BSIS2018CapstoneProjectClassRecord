@@ -1,0 +1,20 @@
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Datatables
+@import "~datatables.net-bs4/css/dataTables.bootstrap4";
+
+
+@import "~select2/src/scss/core";
+// @import "select2-bootstrap4.vars"; // Here are variables from the GIST above
+@import "~select2-bootstrap4-theme/src/select2-bootstrap4";
+// @import "select2-bootstrap4.after"; // Override theme styles
+
+// Helpers
+@import "helpers";
+
+// Customs
+@import "customs";
