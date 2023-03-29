@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "datatables.net-bs4": "^1.10.16",
-        "select2": "^4.0.6-rc.1",
+        "select2": "^4.0.13",
         "select2-bootstrap4-theme": "^1.0.0"
     }
 }
