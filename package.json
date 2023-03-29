@@ -20,7 +20,7 @@
         "vue": "^2.5.16"
     },
     "dependencies": {
-        "datatables.net-bs4": "^1.10.16",
+        "datatables.net-bs4": "^1.13.3",
         "select2": "^4.0.6-rc.1",
         "select2-bootstrap4-theme": "^1.0.0"
     }
